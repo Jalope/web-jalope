@@ -16,7 +16,7 @@ Este simple dato encierra una fractura generacional: la vida adulta se retrasa h
 Marina Garcés llama a esto la **condición póstuma**: vivir en un presente que “ya no suma sino que resta”. En este caso, la juventud queda atrapada en un tiempo sin horizonte, donde emanciparse no es el inicio de una vida nueva, sino una carrera de obstáculos que llega demasiado tarde.
 
 <figure>
-  <img src="/assets/img/emancipacion_2024.svg"
+  <img src="{{ site.baseurl }}/assets/img/emancipacion_2024.svg"
        alt="Edad media de emancipación juvenil en Europa (2024). España 30; UE 26,2.">
   <figcaption>
     Edad media de emancipación juvenil en Europa (2024). 
